@@ -19,4 +19,10 @@ Grid är på 6 kolumner och max-bredden på sidan är 1000px.
 
 BEM: http://getbem.com/introduction
 
+BEM: https://css-tricks.com/bem-101/
+
 Vanliga misstag när man skriver BEM: https://dev.to/visuellverstehen/common-mistakes-when-writing-css-with-bem-4921
+
+CSS Grid och flexbox 1: https://www.simplilearn.com/tutorials/css-tutorial/css-grid-vs-flexbox
+
+CSS Grid och flexbox 2: https://blog.logrocket.com/css-flexbox-vs-css-grid/
