@@ -14,6 +14,10 @@ Gör din postershop-sida responsiv!
 
 Grid är på 6 kolumner och max-bredden på sidan är 1000px.
 
+#### Code review på tisdag nästa vecka
+
+Antingen postershop eller insurance-sidan.
+
 
 ## Artiklar
 
